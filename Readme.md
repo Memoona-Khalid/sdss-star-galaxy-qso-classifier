@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # SDSS Star / Galaxy / Quasar Classification
 
 [
